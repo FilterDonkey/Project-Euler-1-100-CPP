@@ -364,3 +364,8 @@ FodyWeavers.xsd
 
 #Mine
 .vcxproj
+*.vcxproj
+Problem 8/Problem 8.vcxproj.filters
+Problem 7/Problem 7.vcxproj.filters
+Problem 15/Problem 15.vcxproj.filters
+Problem 14/Problem 14.vcxproj.filters
